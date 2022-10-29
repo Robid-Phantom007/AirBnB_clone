@@ -10,7 +10,7 @@ This is the first step towards building your first full web application: the Air
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content
+## Table of Content :check_mark:
 
 * [Requirements](#requirements)
 * [Installation](#installation)
@@ -20,7 +20,7 @@ This is the first step towards building your first full web application: the Air
 * [Bugs](#bugs)
 * [Authors](#authors)
 
-## Requirements
+## Requirements :page_with_curl:
 
 * Allowed editors: vi, vim, emacs
 * All your files should end with a new line
@@ -33,7 +33,7 @@ This is the first step towards building your first full web application: the Air
 * Your code should use the pycodestyle (version 2.8.*)
 * All your files must be executable
 
-## Installation
+## Installation :computer:
 
 * Clone this repository: `git clone "https://github.com/Robid-Phantom007/AirBnB_clone.git"`
 
@@ -43,7 +43,7 @@ This is the first step towards building your first full web application: the Air
 
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
-## File Descriptions
+## File Descriptions :page:
 
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 
@@ -240,9 +240,6 @@ TestBaseModel class:
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
 
-
-
-
 ## Examples of use
 
 ```
@@ -289,10 +286,9 @@ EOF  all  create  destroy  help  quit  show  update
 
 
 
-## Bugs
+## Bugs :insect:
 
 No known bugs at this time. 
-
 
 
 ## Authors
