@@ -10,7 +10,7 @@ This is the first step towards building your first full web application: the Air
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content :check_mark:
+## Table of Content :heavy_check_mark:
 
 * [Requirements](#requirements)
 * [Installation](#installation)
@@ -20,7 +20,7 @@ This is the first step towards building your first full web application: the Air
 * [Bugs](#bugs)
 * [Authors](#authors)
 
-## Requirements :page_with_curl:
+## Requirements :house:
 
 * Allowed editors: vi, vim, emacs
 * All your files should end with a new line
@@ -43,7 +43,7 @@ This is the first step towards building your first full web application: the Air
 
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
-## File Descriptions :page:
+## File Descriptions :page_with_curl:
 
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 
@@ -286,7 +286,7 @@ EOF  all  create  destroy  help  quit  show  update
 
 
 
-## Bugs :insect:
+## Bugs 
 
 No known bugs at this time. 
 
