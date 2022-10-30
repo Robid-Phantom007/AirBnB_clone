@@ -293,5 +293,5 @@ No known bugs at this time.
 
 ## Authors
 
-Dibor Solomon - [Github](https://github.com/Robid-Phantom007)
-Angelia Owango - [Github](https://github.com/angelia)
+* Dibor Solomon - [Github](https://github.com/Robid-Phantom007)
+* Angelia Owango - [Github](https://github.com/angelia)
